@@ -75,7 +75,7 @@ export default function App() {
                             <li className="list-group-item"><a className='btn p-2 bg-dark w-100 text-light' href="https://vtsfashion.onrender.com/">FashionMart</a></li>
                             <li className="list-group-item"><a className='btn p-2 bg-dark w-100 text-light' href="https://assignmentvts.netlify.app/">Assignment</a></li>
                             <li className="list-group-item"><a className='btn p-2 bg-dark w-100 text-light' href="https://tictactoe-615k.onrender.com/">TicTacToe</a></li>
-                            <li className="list-group-item"><a className='btn p-2 bg-dark w-100 text-light' href="https://difievent.onrender.com/">Eventplanner</a></li>
+                            <li className="list-group-item"><a className='btn p-2 bg-dark w-100 text-light' href="https://vtsevent.onrender.com/">Eventplanner</a></li>
                         </ul>
                             </div>
                             </div>
